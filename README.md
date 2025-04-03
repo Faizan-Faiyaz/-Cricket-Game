@@ -1,3 +1,3 @@
-# -Cricket-Game
+# Cricket-Game
 
 This **Cricket Game** allows the user to choose between **Bat**, **Ball**, or **Stump** to play against the computer. The game randomly selects a move for the computer, and the result (win, loss, or tie) is determined based on both choices. The score, which tracks the number of wins, losses, and ties, is stored in **localStorage**, ensuring it persists across page reloads. Key functions include generating random computer choices, calculating the result, and updating the score. The game also features a reset button to clear the score and start a new game, providing a simple, interactive experience.
